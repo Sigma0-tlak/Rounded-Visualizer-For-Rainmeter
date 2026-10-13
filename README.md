@@ -9,7 +9,8 @@ Find A Folder Named Rounded Visualizer
 
 Right Click it Then This will Appear
 
-<imgwidth="339" height="203" alt="Screenshot 2026-10-13 182929" src="https://github.com/user-attachments/assets/5985f689-cec2-4fb3-9767-b7a8c6dee455" />
+<img width="339" height="203" alt="Screenshot 2026-10-13 182929" src="https://github.com/user-attachments/assets/f3c2c1fd-d6b3-40f0-b2c7-1940300fb0f0" />
+
 
 On it click Open folder Then File Explore Will Open With This Folder
 
