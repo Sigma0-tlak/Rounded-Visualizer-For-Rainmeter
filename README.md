@@ -2,7 +2,9 @@
 A Rainmeter Skin 
 <img width="1433" height="178" alt="image" src="https://github.com/user-attachments/assets/5b68a217-7972-4ed7-ab01-87ecbc95da38" />
 How to change the colur 
+
 Open Rainmeter 
+
 Find A Folder Named Rounded Visualizer
 
 <img width="841" height="654" alt="Screenshot 2026-10-13 182558" src="https://github.com/user-attachments/assets/d0a1ae5d-155e-4a39-b65c-113f4a17d604" />
